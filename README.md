@@ -18,35 +18,35 @@ Visit http://project.editnow.site to view the app runnning live.
 
 Backend
 
-Express.js
-PostgreSQL
-Node.js
+- Express.js
+- PostgreSQL
+- Node.js
 
 Frontend
 
-React
-Vite
-CSS Modules
+- React
+- Vite
+- CSS Modules
 
 # Hosting & Deployment
 
-AWS Instance
-Hostinger
+- AWS Instance
+- Hostinger
 
 # Development Tools
 
-Git
-npm/yarn
-Postman/API testing
-Neovim + neovim plugins 
+- Git
+- npm/yarn
+- Postman/API testing
+- Neovim + neovim plugins 
 
 # Key Features
 
-RESTful API design
-Responsive UI
-Database-driven application
+- RESTful API design
+- Responsive UI
+- Database-driven application
 
 # Deployment
 
-Backend hosted on AWS
-Frontend deployed via Hostinger
+- Backend hosted on AWS
+- Frontend deployed via Hostinger
