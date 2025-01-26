@@ -1,0 +1,38 @@
+
+.LearnHub{
+  font-family: "Roboto", serif;
+  font-optical-sizing: auto;
+  font-weight: 900;
+  font-style: Regular;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+.robotoWelcome{
+  font-family: "Roboto", serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: SemiBold;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+.placementHeading {
+    font-family: "Roboto", serif;
+    font-optical-sizing: auto;
+    font-weight: 800;
+    font-style: SemiBold;
+    font-variation-settings:
+        "wdth" 100;
+}
+
+.geauxFont{
+    font-family: "Roboto", serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: SemiBold;
+    font-variation-settings:
+        "wdth" 100;
+}
+
+

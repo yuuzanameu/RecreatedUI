@@ -1,0 +1,87 @@
+
+.cardGrid {
+    width: 95%;
+    margin: 0 auto; 
+    margin-top: 2rem;
+    display: grid; 
+    gap: 1.4rem;
+    grid-template-columns: 1fr 1fr 1fr; 
+}
+
+.card {
+    background-color: white;
+    border-radius: 8px;
+    padding: 24px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+}
+
+
+.namestyle{
+    font-family: "Roboto";
+    font-weight: 700;
+    /* width: 6rem; */
+    display: flex;
+    align-items: center;
+}
+
+.avatar {
+    color: white;
+    width: 48px;
+    height: 48px;
+    border-radius: 50%;
+    background-color: rgb(201 253 2 / 1);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 18px;
+    margin-bottom: 16px;
+}
+
+.details {
+    line-height: 1.2rem;
+    font-family: "Arial", serif;
+    font-weight: 800;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.name {
+    padding-left: 1rem;
+    font-size: 18px;
+    margin-bottom: 8px;
+}
+
+.field {
+    margin-bottom: 4px;
+}
+
+.value {
+    font-size: 1rem;
+    font-family: "Roboto";
+    font-weight: normal;
+    display: inline;
+}
+
+.label {
+    font-weight: 700;
+}
+
+.deleteButton {
+    height: 2.5rem;
+    width: 100%;
+    background-color: #ef4444;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    padding: 8px 0;
+    margin-top: 16px;
+    cursor: pointer;
+    transition: background-color 0.2s;
+}
+
+.deleteButton:hover {
+    background-color: #dc2626;
+}
+
+
